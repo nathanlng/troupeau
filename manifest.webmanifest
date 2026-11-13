@@ -1,0 +1,14 @@
+{
+  "name": "Troupeau",
+  "short_name": "Troupeau",
+  "description": "Le jeu d'ambiance où il faut penser pareil que son équipe.",
+  "lang": "fr",
+  "start_url": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#FFF3E2",
+  "theme_color": "#FFF3E2",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}
